@@ -13,7 +13,7 @@ folder: wow-shuffles
 {% include tip.html content="You can earn a regular profit with Sky Golem creation simply because it takes 30 days to make one and 2 - tricks to bring your mats cost down which will be covered below. Profit ranges from vary server to server but this is a staple of least amount of effort. I've sold Sky Golems from 40-90k gold depending on releases and scarcity of available crafted Sky Golems. Just keep an eye on your servers market"%}
 
 ## Google Sheets calculator
-Pending
+Here is the [Google Sheets calculator](https://docs.google.com/spreadsheets/d/1LXJJ-9sb_lKwsY5shxtYc-weaCjjW44YmhXFFZPpU0Q/edit?usp=sharing)
 
 ## What can you earn
 
