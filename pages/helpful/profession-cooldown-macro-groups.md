@@ -10,7 +10,7 @@ folder: helpful
 {% include tip.html content="This page will help you placer on your character toolbar Professional Cooldown Spells to make Daily, Weekly, Monthly etc cooldown easier to use on a regular basis vs favoriting or searching for them inside your professional tab. This can be setup through a macro for convenience logins craft mules to place on your toolbars. Follow me on [twitter](https://twitter.com/mozzletoffWOW) where I shall announce each release when its added on to the site."%}
 
 ## Youtube Video explanation
-I am sharing a Youtube video posted by **"Underrated54"** [here](https://www.youtube.com/watch?v=ZAdl8nB_pO4) showing the macro creation process easier for readers unfamiliar with the steps.
+I am sharing a Youtube video posted by **"Underrated54"** [here](https://www.youtube.com/watch?v=ZAdl8nB_pO4) which shows the macro creation process easier for readers unfamiliar with the steps.
 
 ## Prerequisites for the Shuffle
 In order to do this shuffle you must:
